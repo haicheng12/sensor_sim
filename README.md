@@ -22,7 +22,7 @@ $ roslaunch velodyne_description example.launch
 
 **测试效果**
 
-![Image text](https://github.com/haicheng12/McKnum_car_sim/blob/main/img/carto_img.jpg)
+![Image text](https://github.com/haicheng12/sensor_sim/blob/master/img/gazebo.png)
 
 
 
